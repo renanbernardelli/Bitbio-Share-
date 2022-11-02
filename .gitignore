@@ -1,0 +1,10 @@
+*
+*/
+!.gitignore
+!schemas
+!schemas/comment.js
+!schemas/pin.js
+!schemas/postedBy.js
+!schemas/save.js
+!schemas/schema.js
+!schemas/user.js
